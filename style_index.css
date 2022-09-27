@@ -105,7 +105,7 @@ p{
     font-size:25px;
     background-color: #1b1b1b;
     width:270px;
-    height: 40px;
+    padding: 6px 0 6px 0;
     position: fixed;
     text-decoration: none;
     text-align: center;
